@@ -1,2 +1,2 @@
 # test project
-https://rexxyflexxy2008.github.io/test/
+[https://rexxyflexxy2008.github.io/test/]
