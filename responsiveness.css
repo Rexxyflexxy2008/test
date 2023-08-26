@@ -1,0 +1,27 @@
+@media (max-width:1400px) {
+    .home .main1 h1{
+        font-size: 50px;
+    }
+    .home .main1 h2{
+        font-size: 35px;
+    }
+    .home .main1 p{
+        font-size: 18px;
+    }
+    .social{
+        display: flex;
+        justify-content: space-between;
+      padding-left: 20px;
+    }
+    .social1 h5, .social2 h5{
+        font-size: 18px;
+        padding: 8px;
+    }
+    .social1 p, .social2 p{
+        font-size: 14px;
+        padding: 6px;
+        }
+        .social-icons{
+        margin-top: 5rem;
+        }
+}
